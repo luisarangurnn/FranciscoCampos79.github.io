@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&family=Rubik:wght@300;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+header {
+    background-image: url(../img/hero-section.jpg);
+    height: 500px;
+    background-size: cover;
+    color: white;
+}
+
+.contactos {
+    list-style-type: none; 
+}
+
+.imagen {
+    width: 30%;
+    height: 30%;
+}
